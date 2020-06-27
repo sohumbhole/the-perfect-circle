@@ -1,0 +1,10 @@
+#myCanvas {
+
+     background-image: url(Background.jpg);
+     background-repeat: no-repeat;
+
+ }
+
+body {
+    padding: 50px;
+}
